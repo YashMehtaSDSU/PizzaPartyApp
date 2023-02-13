@@ -10,6 +10,9 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlin.math.ceil
 
 const val SLICES_PER_PIZZA = 8
+/*
+MiniActivity class has the application logic which is considered as controller of the app.
+ */
 
 class MainActivity : AppCompatActivity() {
 
